@@ -3,11 +3,11 @@
 }
 @font-face {
   font-family: "Philosopher";
-  src: url(/fonts/Philosopher_font.ttf);
+  src: url(bakeip/fonts/Philosopher_font.ttf);
 }
 @font-face {
   font-family: "Roboto";
-  src: url(/fonts/Roboto_font.ttf);
+  src: url(bakeip/fonts/Roboto_font.ttf);
 }
 body {
   background-color: #ffe2b0;
