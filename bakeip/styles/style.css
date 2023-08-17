@@ -36,7 +36,7 @@ li:last-child {
 }
 .section-about {
   height: 640px;
-  background: url(img/background.jpg) center/cover no-repeat;
+  background: url(../img/background.jpg) center/cover no-repeat;
   margin-bottom: 20px;
 }
 .section-about-block {
