@@ -9,3 +9,7 @@
 
 <h2>Сайт выпечки: https://alicestoneprod.github.io/bakery/<h2>
 <p>Самый простенький сайт, без лишних элементов и адаптиной верстки.</p>
+
+<h2>Notes-keeper: https://alicestoneprod.github.io/notes-keeper<h2>
+<p>Приложение для заметок, похожее на todo-app, но с взаимодействием через базу данных firebase.</p>
+<p>Было использовано: react, antd, material ui, firebase, context api</p>
