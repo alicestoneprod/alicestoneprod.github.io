@@ -3,11 +3,11 @@
 }
 @font-face {
   font-family: "Philosopher";
-  src: url(/bakeip/fonts/Philosopher_font.ttf);
+  src: url(/bakery/fonts/Philosopher_font.ttf);
 }
 @font-face {
   font-family: "Roboto";
-  src: url(/bakeip/fonts/Roboto_font.ttf);
+  src: url(/bakery/fonts/Roboto_font.ttf);
 }
 body {
   background-color: #ffe2b0;
@@ -36,7 +36,7 @@ li:last-child {
 }
 .section-about {
   height: 640px;
-  background: url(/bakeip/img/background.jpg) center/cover no-repeat;
+  background: url(/bakery/img/background.jpg) center/cover no-repeat;
   margin-bottom: 30px;
 }
 .section-about-block {
