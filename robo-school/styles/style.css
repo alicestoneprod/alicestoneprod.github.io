@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Jost";
-  src: url(/fonts/Jost-Regular.ttf);
+  src: url(fonts/Jost-Regular.ttf);
 }
 
 body {
@@ -539,7 +539,7 @@ a:active {
 }
 
 .buy-section-special-logo-container {
-  background: url(/img/footer/percents.svg);
+  background: url(img/footer/percents.svg);
   height: 100px;
   width: 100%;
   position: absolute;
